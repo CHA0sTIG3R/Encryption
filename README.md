@@ -1,4 +1,4 @@
-# Ceasar Cipher Encryption
+# Caesar Cipher Encryption
 
 **This program takes in 2 inputs:**
 1. the first is a text that is going to be encrypted

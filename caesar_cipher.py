@@ -15,4 +15,4 @@ else:
         elif char.islower():
             code = (ord(char) + shift - 97) % 26 + 97
             cipher += chr(code)
-print(cipher) 
+print(cipher)
